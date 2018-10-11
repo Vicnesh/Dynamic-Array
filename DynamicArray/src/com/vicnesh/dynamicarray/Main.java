@@ -11,12 +11,7 @@ public class Main {
 		
 		
 		int[] testArray = new int[10];
-		
-		
-		for (int k = 0; k != testArray.length; k++) {
-			System.out.println(testArray[0]);
-		}
-		
+
 		System.out.println("Number of items in array :" + dynamicArray.getSize());
 		
 	}
